@@ -1,1 +1,1 @@
-# 2020_Tools-Integration-with-Git-SonarQube-Jfrog-Jenkins-Ansible-Docker-Kubernetes-Tomcat
+# 2020_Explore 100% Real Time DevOps Tools Integration with Git, SonarQube, Jfrog, Jenkins, Ansible, Docker, Kubernetes, Tomcat
