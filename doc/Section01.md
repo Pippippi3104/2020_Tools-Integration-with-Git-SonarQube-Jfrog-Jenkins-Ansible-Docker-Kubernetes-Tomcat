@@ -32,7 +32,7 @@
 ## DevOps Project: Code, Steps, Documentation
 * ![Image](../src/images/Section01/project001.png)
 
-## Pickup
+### Pickup
 * [DevOps Project: Jenkins CI/CD for Kubernetes Deployments](https://www.iwayq.com/tutorial/devops-automation/kubernetes/devops-project-jenkins-cicd-for-kubernetes-deployments)
 * [devops-pipeline-project](https://bitbucket.org/iwayqtech/devops-pipeline-project/src/master/)
 
