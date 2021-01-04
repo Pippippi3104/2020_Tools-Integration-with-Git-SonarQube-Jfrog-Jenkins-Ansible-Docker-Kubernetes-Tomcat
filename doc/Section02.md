@@ -4,6 +4,7 @@
 
 # Contents
 * [Linux Basics](#linux)
+* [DevOps Basics](devops)
 
 ### Pickup
 * 
@@ -16,5 +17,13 @@
 
 ### Pickup
 * [What is Linux?](https://www.iwayq.com/video/webseries/it-software/operating-system/linux-administrator-course)
+
+### [Return to Contents](#contents)
+
+
+<a id = "lidevopsnux">
+
+## DevOps Basics
+* ![Image](../src/images/Section02/devops001.png)
 
 ### [Return to Contents](#contents)
