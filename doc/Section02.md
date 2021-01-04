@@ -4,7 +4,8 @@
 
 # Contents
 * [Linux Basics](#linux)
-* [DevOps Basics](devops)
+* [DevOps Basics](#devops)
+* [Desire to adopt DevOps Model](#model)
 
 ### Pickup
 * 
@@ -21,9 +22,17 @@
 ### [Return to Contents](#contents)
 
 
-<a id = "lidevopsnux">
+<a id = "devops">
 
 ## DevOps Basics
 * ![Image](../src/images/Section02/devops001.png)
+
+### [Return to Contents](#contents)
+
+
+<a id = "model">
+
+## Desire to adopt DevOps Model
+* ![Image](../src/images/Section02/model001.png)
 
 ### [Return to Contents](#contents)
