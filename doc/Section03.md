@@ -42,7 +42,7 @@
   cd ~/.ssh/keys
   cp ~/Desktop/devops-project.pem ./
   chmod 600 devops-project.pem
-  ssh EC2アカウント名@IP -i ~/.ssh/keys/ダウンロードした鍵.pem (例: ssh ec2-user@3.15.158.192 -i ~/.ssh/keys/devops-project.pem)
+  ssh EC2アカウント名@IP -i ~/.ssh/keys/ダウンロードした鍵.pem (例: ssh ec2-user@18.191.41.4 -i ~/.ssh/keys/devops-project.pem)
   sudo su -
   ```
   * go to root
