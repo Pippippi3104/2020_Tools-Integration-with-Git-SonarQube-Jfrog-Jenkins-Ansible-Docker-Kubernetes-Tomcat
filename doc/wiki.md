@@ -5,9 +5,10 @@
 * Section02: Pre-Requisites - Key Skills Required Before Get Started with DevOps Project
 * Section03: Git
 * Section04: BitBucket
+* Section05: Apache Maven
 
 ### Pickup
-* [完成ページ](https://react-firebase-hosting-779d2.web.app/)
+* 
 
 ### How to
 * 
